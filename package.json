@@ -1,0 +1,27 @@
+{
+    "name": "harp.gl-example",
+    "version": "0.1.0",
+    "description": "Generated with generator-harp.gl 0.17.0",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "build": "webpack",
+        "start": "webpack-dev-server"
+    },
+    "author": "",
+    "private": true,
+    "dependencies": {
+        "@here/harp-datasource-protocol": "^0.17.0",
+        "@here/harp-geoutils": "^0.17.0",
+        "@here/harp-map-controls": "^0.17.0",
+        "@here/harp-map-theme": "^0.17.0",
+        "@here/harp-mapview": "^0.17.0",
+        "@here/harp-omv-datasource": "^0.17.0",
+        "@here/harp-webpack-utils": "^0.17.0",
+        "three": "^0.117.1"
+    },
+    "devDependencies": {
+        "webpack": "^4.43.0",
+        "webpack-cli": "^3.3.12",
+        "webpack-dev-server": "^3.11.0"
+    }
+}
