@@ -17,7 +17,7 @@
         "@here/harp-mapview": "^0.17.0",
         "@here/harp-omv-datasource": "^0.17.0",
         "@here/harp-webpack-utils": "^0.17.0",
-        "three": "^0.117.1"
+        "three": "^0.125.0"
     },
     "devDependencies": {
         "webpack": "^4.43.0",
