@@ -16,12 +16,12 @@
         "@here/harp-map-theme": "^0.17.0",
         "@here/harp-mapview": "^0.17.0",
         "@here/harp-omv-datasource": "^0.17.0",
-        "@here/harp-webpack-utils": "^0.17.0",
+        "@here/harp-webpack-utils": "^0.28.0",
         "three": "^0.117.1"
     },
     "devDependencies": {
-        "webpack": "^4.43.0",
-        "webpack-cli": "^3.3.12",
+        "webpack": "^5.75.0",
+        "webpack-cli": "^5.0.1",
         "webpack-dev-server": "^3.11.0"
     }
 }
